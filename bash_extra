@@ -1,1 +1,2 @@
 bash --verson
+cat /etc/issue
